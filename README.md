@@ -25,6 +25,9 @@ Logging
 
 ## DATASCIENCE
 
+Machine learning
+- sklearn
+
 Labeling
 - label-studio
 - labelstudio-ml-backend
