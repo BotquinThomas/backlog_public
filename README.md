@@ -1,6 +1,6 @@
 # BACKLOG (PUBLIC)
 The aim of this repo is to list all future projects, where the aim is to:
-- fork python package
+- fork public libraries
 - create example use cases in jupyter notebooks
 - add custom functionality that is easily reusable in future projects
 
