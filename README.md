@@ -1,4 +1,4 @@
-# BACKLOG
+# BACKLOG (PUBLIC)
 All future public projects listed below:
 - planning to fork all python packages below
 - add custom functionality that is easily reusable in future projects
