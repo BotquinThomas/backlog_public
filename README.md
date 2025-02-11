@@ -1,6 +1,7 @@
 # BACKLOG (PUBLIC)
-All future public projects listed below:
-- planning to fork all python packages below
+The aim of this repo is to list all future projects, where the aim is to:
+- fork all python packages below
+- create example use cases in jupyter notebooks
 - add custom functionality that is easily reusable in future projects
 
 ## GENERAL
