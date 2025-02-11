@@ -21,7 +21,6 @@ File handling
 - excel
 
 Logging
-- logging
 - loguru
 
 ## DATASCIENCE
