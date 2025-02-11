@@ -29,7 +29,7 @@ Logging
 Machine learning
 - sklearn
 
-Labeling
+Labelling
 - label-studio
 - labelstudio-ml-backend
 - cvat
