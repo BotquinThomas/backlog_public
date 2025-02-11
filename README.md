@@ -43,6 +43,7 @@ Dataset management
 
 LLM
 - ollama
+- langchain
 - openai
 - deepseek
 
