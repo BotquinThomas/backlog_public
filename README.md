@@ -1,5 +1,5 @@
 # BACKLOG
-All future personal projects listed below:
+All future public projects listed below:
 - planning to fork all python packages below
 - add custom functionality that is easily reusable in future projects
 
