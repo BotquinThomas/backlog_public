@@ -87,7 +87,7 @@ Monitoring:
 
 ## FRONTEND
 - streamlit
-- hmtx
+- htmx
 - keycloak
 - vue.js
 
